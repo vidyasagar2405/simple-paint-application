@@ -39,6 +39,9 @@ This project lets you draw freely, erase, and create shapes like rectangles, cir
    python paint_app.py
    ```
 
+## Demo Video
+checkout here : [https://youtu.be/cYg7Sd-FeOQ]
+
 ## 🎮 Controls
 
 * **Q** → Quit
