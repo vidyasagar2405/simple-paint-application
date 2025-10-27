@@ -25,7 +25,7 @@ This project lets you draw freely, erase, and create shapes like rectangles, cir
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/opencv-paint-app.git
+   git clone https://github.com/vidyasagar2405/OPENCV-Paint-Application-Project-using--Python-.git
    cd opencv-paint-app
    ```
 2. Install dependencies:
