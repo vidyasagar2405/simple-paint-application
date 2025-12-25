@@ -1,9 +1,6 @@
-# OpenCV-Paint-Application-Project
-A mini paint application built with Python and OpenCV, supporting freehand drawing, eraser, and shapes with live preview.
+# 🖌️ Simple Paint Application using OpenCV
 
-# 🖌️ OpenCV Paint Application
-
-A simple **Paint Application built with Python & OpenCV**.
+A simple **Simple Paint Application built with Python & OpenCV**.
 This project lets you draw freely, erase, and create shapes like rectangles, circles, and straight lines — with live shape preview and color/thickness controls.
 
 ## ✨ Features
@@ -25,8 +22,8 @@ This project lets you draw freely, erase, and create shapes like rectangles, cir
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vidyasagar2405/OPENCV-Paint-Application-Project-using--Python-.git
-   cd opencv-paint-app
+   git clone https://github.com/vidyasagar2405/simple-paint-application.git
+   cd simple-paint-application
    ```
 2. Install dependencies:
 
@@ -40,7 +37,7 @@ This project lets you draw freely, erase, and create shapes like rectangles, cir
    ```
 
 ## Demo Video
-checkout here : [https://youtu.be/cYg7Sd-FeOQ]
+checkout here : [Video](https://youtu.be/cYg7Sd-FeOQ)
 
 ## 🎮 Controls
 
